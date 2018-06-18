@@ -6,3 +6,6 @@ If you have multiple subnet mask with different routes and you want to make sure
 # Requirements
 - python
 - zabbix-sender
+
+# Usage
+`bash zbxbgpcheck.sh`
